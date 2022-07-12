@@ -197,3 +197,10 @@ footer ul li {
     float: right;
     margin: 0 5px;
 }
+
+#slider {
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
