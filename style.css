@@ -80,6 +80,10 @@ h1 {
     h1 {
         font-size: 5em;
     }
+
+    .imagens {
+        width: 800px;
+    }
  }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -87,6 +91,11 @@ h1 {
     h1 {
         font-size: 6em;
     }
+
+    .imagens {
+        width: 800px;
+    }
+
 }
 
 .btn-custom {
